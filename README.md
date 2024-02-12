@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarianwong&show_icons=true&locale=en&layout=compact" alt="thedarianwong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedarianwong&show_icons=true&locale=en" alt="thedarianwong" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedarianwong&" alt="thedarianwong" /></p>
