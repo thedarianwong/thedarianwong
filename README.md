@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darian Wong</h1>
-<h3 align="center">Based in Vancouver, BC, I'm passionate about leveraging the latest technologies to solve real-world problems, aspiring to contribute towards a brighter, more sustainable future for all.</h3>
+<h3 align="center">Based in Vancouver, BC 🍁</h3>
+<h3 align="center">I'm passionate about leveraging the latest technologies to solve real-world problems, aspiring to contribute towards a brighter, more sustainable future for all.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedarianwong&label=Profile%20views&color=0e75b6&style=flat" alt="thedarianwong" /> </p>
 
