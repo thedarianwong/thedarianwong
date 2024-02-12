@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Job Hub](https://github.com/jobless-devs/Jobhub)
 
-- 🌱 I’m currently learning **Azure and AWS cloud services, C#**
+- 🌱 I’m currently learning **Azure and AWS Cloud Services
 
 - 🤝 I’m looking for help with [Chillax](https://github.com/thedarianwong/Chillax)
 
