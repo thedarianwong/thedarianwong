@@ -50,6 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarianwong&show_icons=true&locale=en&layout=compact&hide_border=true" alt="thedarianwong" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarianwong&show_icons=true&locale=en&layout=compact&hide_border=true" alt="thedarianwong" height="165" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarianwong&hide_border=true" alt="thedarianwong" height="165" />
 </p>
